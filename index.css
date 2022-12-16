@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(28, 26, 26);
+    
+    
+    
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: visible;
+    height:100px;
+    width:100px;
+    
+
+
+}
+button{
+    height:100px;
+    width:100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(218, 141, 192);
+    font-size: larger;
+    border-radius:100px  ;
+    background-color:rgb(25, 146, 157);
+
+
+}
+button:hover{
+    background: linear-gradient(rgba(245, 222, 179,0.6),rgba(245, 222, 179,0.6));
+    color: #fff;
+}
+.pagename{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(255, 176, 127);
+    font-size:50px;
+    text-shadow:2px 1px 1px black;
+}
+.bt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100px;
+    width: auto;
+    margin-top: 5%;
+
+}
+#players{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(31, 106, 66);
+
+
+}
+
+#p2{
+    margin-left: 20%;
+    
+}
+.click:hover{
+    transition: all easy;
+
+}
+.dices{
+    
+    height:200px;
+    width:100%;
+    
+    margin-top: 5%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.dice1{
+    margin-top: 0%;
+    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+    height:100px;
+    width:100px;
+    color: bisque;
+    font-size: 30px;
+    border-radius: 5px;
+    background-color: rgb(110, 25, 25);
+
+}
+.dice2{
+    margin-top: 0%;
+    margin-left:20%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height:100px;
+    width:100px;
+    
+    
+    color: bisque;
+    font-size: 30px;
+    border-radius: 5px;
+    background-color: rgb(110, 25, 25);
+}
+
+.btn2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    height:100px;
+    width:100px;
+    
+    
+}
+
+
